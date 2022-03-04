@@ -1,0 +1,10 @@
+C:\Users\lucas\Desktop\PROJETOS\programas\C#\pint\Pint\Pint\bin\Debug\Pint.exe.config
+C:\Users\lucas\Desktop\PROJETOS\programas\C#\pint\Pint\Pint\bin\Debug\Pint.exe
+C:\Users\lucas\Desktop\PROJETOS\programas\C#\pint\Pint\Pint\bin\Debug\Pint.pdb
+C:\Users\lucas\Desktop\PROJETOS\programas\C#\pint\Pint\Pint\obj\Debug\Pint.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\PROJETOS\programas\C#\pint\Pint\Pint\obj\Debug\Pint.Form1.resources
+C:\Users\lucas\Desktop\PROJETOS\programas\C#\pint\Pint\Pint\obj\Debug\Pint.Properties.Resources.resources
+C:\Users\lucas\Desktop\PROJETOS\programas\C#\pint\Pint\Pint\obj\Debug\Pint.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\PROJETOS\programas\C#\pint\Pint\Pint\obj\Debug\Pint.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\PROJETOS\programas\C#\pint\Pint\Pint\obj\Debug\Pint.exe
+C:\Users\lucas\Desktop\PROJETOS\programas\C#\pint\Pint\Pint\obj\Debug\Pint.pdb

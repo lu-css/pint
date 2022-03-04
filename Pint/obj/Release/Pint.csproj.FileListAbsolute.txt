@@ -1,0 +1,9 @@
+C:\Users\lucas\Desktop\PROJETOS\programas\C#\pint\Pint\Pint\bin\Release\Pint.exe.config
+C:\Users\lucas\Desktop\PROJETOS\programas\C#\pint\Pint\Pint\bin\Release\Pint.exe
+C:\Users\lucas\Desktop\PROJETOS\programas\C#\pint\Pint\Pint\bin\Release\Pint.pdb
+C:\Users\lucas\Desktop\PROJETOS\programas\C#\pint\Pint\Pint\obj\Release\Pint.Form1.resources
+C:\Users\lucas\Desktop\PROJETOS\programas\C#\pint\Pint\Pint\obj\Release\Pint.Properties.Resources.resources
+C:\Users\lucas\Desktop\PROJETOS\programas\C#\pint\Pint\Pint\obj\Release\Pint.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\PROJETOS\programas\C#\pint\Pint\Pint\obj\Release\Pint.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\PROJETOS\programas\C#\pint\Pint\Pint\obj\Release\Pint.exe
+C:\Users\lucas\Desktop\PROJETOS\programas\C#\pint\Pint\Pint\obj\Release\Pint.pdb
